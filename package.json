@@ -1,0 +1,12 @@
+{
+  "name": "lessite-backend",
+  "version": "1.0.0",
+  "description": "Backend voor lessite generator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
